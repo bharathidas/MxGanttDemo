@@ -67,6 +67,21 @@ styles (`themesource/ganttdemo`) and the screenshots (`docs/screenshots`).
 `themesource/ganttdemo/web/main.scss` carries the page header and panel styles and the purple portfolio colours of
 Example 15, so the page looks the same in any app. It uses only the Atlas theme variables.
 
+## Screenshots
+
+| | |
+| --- | --- |
+| ![Delivery plan](docs/screenshots/screenshot-1.png) | ![Portfolio timeline](docs/screenshots/screenshot-2.png) |
+| **1. Delivery plan.** Phases, dependency arrows, the critical path, today line, status date, deadlines and a task tooltip. | **2. Portfolio timeline.** Year zoom with status colours, approved baseline outlines, business-need diamonds and a legend. |
+| ![Baselines](docs/screenshots/screenshot-3.png) | ![Resource usage](docs/screenshots/screenshot-4.png) |
+| **3. Baselines.** The approved baseline under the bars, compared with a re-plan, with start, finish and cost variance. | **4. Resource usage.** Assignments with units show who is over capacity, next to Level resources. |
+| ![Cost and earned value](docs/screenshots/screenshot-5.png) | ![Configured columns](docs/screenshots/screenshot-6.png) |
+| **5. Cost and earned value.** BAC, PV, EV, AC, CPI, SPI and EAC with an S-curve and forecast. | **6. Configured columns.** Owner, Status, Budget with group totals and over-budget highlighting, and inline editing. |
+| ![Custom fields](docs/screenshots/screenshot-7.png) | ![Drag to reschedule](docs/screenshots/screenshot-8.png) |
+| **7. Custom fields.** Users add their own fields, such as a phase gate select with coloured choices. | **8. Drag to reschedule.** A bar mid-drag with the live dates; dependencies and undo are kept. |
+| ![Search, filters and export](docs/screenshots/screenshot-9.png) | ![Dark mode](docs/screenshots/screenshot-10.png) |
+| **9. Search, filters and export.** Critical only, Late only, custom field filters, and CSV, Excel and MS Project export. | **10. Dark mode.** The same plan in the dark theme, with cross-project links. |
+
 ## License
 
 Apache-2.0 © MX Techies 2026
