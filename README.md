@@ -81,6 +81,10 @@ Example 15, so the page looks the same in any app. It uses only the Atlas theme 
 | **7. Custom fields.** Users add their own fields, such as a phase gate select with coloured choices. | **8. Drag to reschedule.** A bar mid-drag with the live dates; dependencies and undo are kept. |
 | ![Search, filters and export](docs/screenshots/screenshot-9.png) | ![Dark mode](docs/screenshots/screenshot-10.png) |
 | **9. Search, filters and export.** Critical only, Late only, custom field filters, and CSV, Excel and MS Project export. | **10. Dark mode.** The same plan in the dark theme, with cross-project links. |
+| ![Studio Pro page editor](docs/screenshots/screenshot-11.png) | ![Studio Pro structure mode](docs/screenshots/screenshot-12.png) |
+| **11. Studio Pro page editor.** Design mode previews the task list columns, bars, progress and baselines. | **12. Studio Pro structure mode.** The structure preview shows the configured columns and a bar sketch. |
+| ![Properties: General](docs/screenshots/screenshot-13.png) | ![Properties: task list columns](docs/screenshots/screenshot-14.png) |
+| **13. Properties: General.** Data source, task name, code, second line, start, end and progress. | **14. Properties: task list columns.** Built-in and attribute columns with captions and header tooltips. |
 
 ## License
 
